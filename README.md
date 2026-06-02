@@ -37,7 +37,7 @@ Prudent <adjective>
 
 **1. Clone the repository and install dependencies:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/define-cli.git
+git clone https://github.com/Anomalous55/define-cli.git
 cd define-cli
 npm install
 ```
