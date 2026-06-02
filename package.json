@@ -21,11 +21,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/define-cli.git"
+    "url": "https://github.com/Anomalous55/define-cli.git"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/define-cli#readme",
+  "homepage": "https://github.com/Anomalous55/define-cli#readme",
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/define-cli/issues"
+    "url": "https://github.com/Anomalous55/define-cli/issues"
   },
   "engines": {
     "node": ">=18.0.0"
