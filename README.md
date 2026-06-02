@@ -45,7 +45,7 @@ npm install
 npm link
 ```
 
-That's it. Now run:
+Now run:
 ```bash
 define serendipity
 define ephemeral
@@ -61,8 +61,5 @@ npm unlink -g define-cli
 
 ## How It Works
 
-Fetches definitions from the free [DictionaryAPI](https://dictionaryapi.dev/) — no API key needed.
+Fetches definitions from the free [DictionaryAPI](https://dictionaryapi.dev/) no API key needed.
 Results are grouped by part of speech, showing up to 4 definitions each with example sentences where available.
-# define-cli
-# define-cli
-# define-cli
