@@ -1,0 +1,36 @@
+{
+  "name": "define-cli",
+  "version": "1.0.0",
+  "description": "Look up dictionary definitions from your terminal",
+  "main": "define.js",
+  "type": "module",
+  "bin": {
+    "define": "./define.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "dictionary",
+    "terminal",
+    "definition",
+    "word"
+  ],
+  "author": "Anomalous55",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/define-cli.git"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/define-cli#readme",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/define-cli/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
